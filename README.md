@@ -11,7 +11,9 @@ A simple tool you can use to flash your OS onto your USB.
 # Changelog 
 
   **Beta 0.0.1** 
+  
      [+] Added Tkinter Based UI With Buttons
+     
      [+] Created Basic Mock-up/Non-Functional UI
 
 
@@ -21,6 +23,8 @@ A simple tool you can use to flash your OS onto your USB.
 ## Beta 
 
   **Beta 0.0.2** 
+  
      [=] To Add Functionality to the features
+     
      [=] Settings Menu
      
